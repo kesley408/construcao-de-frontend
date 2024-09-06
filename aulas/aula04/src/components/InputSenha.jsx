@@ -1,7 +1,7 @@
 function InputSenha() {
     return (
         <>
-        <label htmlFor="password">Senha</label>
+        <label htmlFor="senha">Senha</label>
         <input type="password" name="senha" id="senha" required/>
         </>
     )
